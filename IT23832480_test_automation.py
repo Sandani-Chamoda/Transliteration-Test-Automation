@@ -1,3 +1,4 @@
+import utils.session
 from playwright.sync_api import sync_playwright
 import time
 import os
